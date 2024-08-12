@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main()C
 {
 string name="yash";
 int age=20;
